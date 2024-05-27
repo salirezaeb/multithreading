@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653660491 source:c:\users\mani\desktop\threading\main.cpp
+	<iostream>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<time.h>
+
+1653660491 source:c:\users\mani\desktop\new folder\multiple\threading\main.cpp
+	<iostream>
+	<stdlib.h>
+	<thread>
+	<unistd.h>
+	<time.h>
+

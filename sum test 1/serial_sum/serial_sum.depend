@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1653634070 source:c:\users\mani\desktop\serial_sum\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<random>
+	<thread>
+
+1653637222 source:c:\users\mani\desktop\new folder\sum\serial_sum\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<random>
+	<thread>
+	<unistd.h>
+

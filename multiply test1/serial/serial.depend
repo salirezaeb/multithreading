@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653639159 source:c:\users\mani\desktop\serial\main.cpp
+	<iostream>
+	<conio.h>
+	<unistd.h>
+
+1653660805 source:c:\users\mani\desktop\new folder\multiple\serial\main.cpp
+	<iostream>
+	<conio.h>
+	<unistd.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1653637442 source:c:\users\mani\desktop\multithreading\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<random>
+	<thread>
+	<unistd.h>
+
+1653637442 source:c:\users\mani\desktop\new folder\sum\multithreading\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<random>
+	<thread>
+	<unistd.h>
+
